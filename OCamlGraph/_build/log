@@ -1,0 +1,5 @@
+# dune init proj OCamlGraph
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Volumes/SSD/CamelGraphProject/OCamlGraph
+# Auto-detected concurrency: 8

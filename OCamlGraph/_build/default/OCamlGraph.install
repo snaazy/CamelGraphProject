@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/OCamlGraph/META"
+  "_build/install/default/lib/OCamlGraph/dune-package"
+  "_build/install/default/lib/OCamlGraph/opam"
+]
+bin: [
+  "_build/install/default/bin/OCamlGraph"
+]
